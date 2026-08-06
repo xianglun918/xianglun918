@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-[![My GitFut card](https://gitfut.com/xianglun918.png)](https://gitfut.com/xianglun918)
+[<img src="https://gitfut.com/xianglun918.png" width="320" alt="My GitFut card"/>](https://gitfut.com/xianglun918)
 
 </div>
